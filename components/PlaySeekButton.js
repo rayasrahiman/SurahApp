@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   skipButton: {
-    width: WIDTH > 1000 ? wp(8) : wp(6),
+    width: WIDTH > 1000 ? wp(9) : wp(6),
     height: WIDTH > 1000 ? hp(16) : hp(14),
   },
 });

@@ -155,8 +155,8 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   foregroundImage: {
-    width: WIDTH > 1000 ? wp(48) : wp(40),
-    height: WIDTH > 1000 ? hp(48) : hp(40),
+    width: WIDTH > 1000 ? wp(55) : wp(50),
+    height: WIDTH > 1000 ? hp(55) : hp(50),
     marginRight: wp(11),
     marginHorizontal: wp(10),
     marginBottom: hp(3),
